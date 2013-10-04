@@ -1,4 +1,4 @@
-proj0
+Enigma Project
 =====
 
 Enigma Project - Progressive Substitution Cryptography
