@@ -1,4 +1,4 @@
-Enigma Project
+Enigma Machine
 =====
 
 Enigma Project - Progressive Substitution Cryptography
